@@ -1,0 +1,21 @@
+{
+    "students":[
+      {
+          "id":3,
+          "stuname":" deletucs aut autem ",
+          "state":"False"
+      },
+      {
+         "id":2,
+          "stuname":" quis ut nam facilis et 0..",
+          "state":"False"
+      },  
+
+      {
+          "id":1,
+          "stuname":"fuigat venuiam minus",
+          "state":"False"
+      }
+
+    ]
+}

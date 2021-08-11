@@ -1,0 +1,35 @@
+.usertext
+{
+    font-size:20px;
+    margin-top:-340px;
+    margin-left:60px;
+}
+.userPassword
+{
+    margin-left:60px;
+}
+.Save
+{
+    margin-top:210px;
+    margin-left:50px;
+    background-color:whitesmoke;
+    border:3px;
+    border-color:black;
+    border-radius:5px;
+    text-decoration:none;
+    color:black;
+}
+.Saves
+{
+    text-decoration:none;
+    color:black;
+}
+.Logout
+{
+    margin-top:210px;
+    margin-left:50px;
+    background-color:whitesmoke;
+    border:3px;
+    border-color:black;
+    border-radius:5px;
+}

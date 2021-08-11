@@ -1,0 +1,54 @@
+.Id{
+margin-left:220px;
+display:block;   
+margin-top:-354px;
+font-size:15px;
+border: 2px,ridge,#adadad;
+border-radius:7px;
+background-color: turquoise;
+outline:none;
+}
+.Name
+{
+margin-left:220px;
+display:block;   
+margin-top:20px;
+font-size:15px;
+border: 2px,ridge,#adadad;
+border-radius:7px;
+background-color: turquoise;
+outline:none;   
+}
+.Completed
+{
+    margin-left:220px;
+    display:block;   
+    margin-top:20px;
+    font-size:15px;
+    border: 2px,ridge,#adadad;
+    border-radius:7px;
+    background-color: turquoise;
+    outline:none;      
+}
+.btnsub
+{
+    margin-left:220px;
+    display:block;   
+    margin-top:20px;
+    font-size:15px;
+    border: 2px,ridge,#adadad;
+    border-radius:7px;
+    background-color: turquoise;
+    outline:none;      
+}
+.btns
+{
+    margin-left:220px;
+    display:block;   
+    margin-top:20px;
+    font-size:15px;
+    border: 2px,ridge,#adadad;
+    border-radius:7px;
+    background-color: turquoise;
+    outline:none;     
+}
